@@ -9,3 +9,7 @@ $ git remote add origin https://github.com/sharad-dange/Important-Commands.git
 $ git push origin master
 $ git clone https://github.com/sharad-dange/Sharad2CodeTest.git
 $ git pull origin master
+$ git branch stage-1
+$ git branch
+$ git checkout stage-1
+$ git mergetool -t vimdiff
