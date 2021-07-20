@@ -1,2 +1,11 @@
 $ git config --global user.name "sharad748";
 $ git config --global user.email "dangesharad748@gmail.com";
+$ git config --list
+$ git init
+$ git add .
+$ git status
+$ git commit -m"Sharad2Code:Important git commands"
+$ git remote add origin https://github.com/sharad-dange/Important-Commands.git
+$ git push origin master
+$ git clone https://github.com/sharad-dange/Sharad2CodeTest.git
+$ git pull origin master
